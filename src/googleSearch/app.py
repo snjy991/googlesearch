@@ -1,7 +1,7 @@
 try:
     from googlesearch import search
 except ImportError:
-    print("No module named 'csgi' found")
+    print("No domain call amazon found")
 
 # to search hostname
 def lambda_handler(event, context):
